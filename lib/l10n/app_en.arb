@@ -1,0 +1,19 @@
+{
+  "settings": "Settings",
+  "theme_Mode": "Theme Mode",
+  "language": "Language",
+  "light": "Light",
+  "dark": "Dark",
+  "to_do_list": "TO DO LiST",
+  "add_new_task": "Add New Task",
+  "select_time": "Select Time",
+  "add": "Add",
+  "arabic": "Arabic",
+  "English": "English",
+  "enter_task_description": "Enter Task Description",
+  "enter_task_title": "Enter Task Title",
+  "please_enter_task_title": "Please Enter Task Title",
+  "please_enter_task_description": "Please Enter Task Description",
+  "your_task_Description_must_be_at_least_6_characters": "your task Description must be at least 6 characters",
+  "your_task_title_must_be_at_least_4_characters": "Your task title must be at least 4 characters"
+}

@@ -1,0 +1,19 @@
+{
+  "settings": "الإعدادات",
+  "theme_Mode": "النمط",
+  "language": "اللغة",
+  "light": "نهاري",
+  "dark": "ليلي",
+  "to_do_list": "قائمه المهام",
+  "add_new_task": "إضافة مهمة جديدة",
+  "select_time": "حدد الوقت",
+  "add": "يضيف",
+  "arabic": "العربيه",
+  "English": "الانجليزيه",
+  "enter_task_description": "أدخل وصف المهمة",
+  "enter_task_title": "أدخل عنوان المهمة",
+  "please_enter_task_title": "الرجاء إدخال عنوان المهمة",
+  "please_enter_task_description": "الرجاء إدخال وصف المهمة",
+  "your_task_Description_must_be_at_least_6_characters": "يجب أن يكون وصف مهمتك مكونًا من 6 أحرف على الأقل",
+  "your_task_title_must_be_at_least_4_characters": "يجب أن يكون عنوان مهمتك مكونًا من 4 أحرف على الأقل"
+}
