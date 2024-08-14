@@ -10,7 +10,9 @@ import 'package:to_do/splash_screen.dart';
 import 'core/provider/prefs_helper.dart';
 import 'core/theme/application_theme.dart';
 import 'home/home_screen.dart';
-
+/*
+test github
+ */
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   PrefsHelper.prefs = await SharedPreferences.getInstance();
