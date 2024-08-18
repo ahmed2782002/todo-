@@ -11,7 +11,7 @@ import 'core/provider/prefs_helper.dart';
 import 'core/theme/application_theme.dart';
 import 'home/home_screen.dart';
 /*
-test github
+test2 github
  */
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
