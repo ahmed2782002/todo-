@@ -12,8 +12,7 @@ import 'core/theme/application_theme.dart';
 import 'home/home_screen.dart';
 /*
 test2 github
-
-
+push
  */
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
